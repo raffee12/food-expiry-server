@@ -155,5 +155,3 @@ run();
 app.listen(port, () => {
   console.log(` Server is running  ${port}`);
 });
-
-console.log("updates");
